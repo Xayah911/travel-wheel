@@ -1,7 +1,7 @@
 const canvas = document.getElementById('canvas');
 const spin = document.getElementById('spin');
 const ctx = canvas.getContext('2d');
-const destinations = ['巴黎', '东京', '纽约', '开罗', '伦敦', '悉尼', '罗马', '曼谷'];
+const destinations = ['', '', '', '', '', '', '', ''];
 const colors = ['#FFD700', '#C0C0C0', '#CD7F32', '#FF6347', '#4682B4', '#D2B48C', '#40E0D0', '#6495ED'];
 let angle = 0;
 
